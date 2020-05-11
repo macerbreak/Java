@@ -1,0 +1,5 @@
+/Users/nikita.bortnichuk/Documents/Study/kpi/3course/2semester/Arduino/BrightnessChange/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nikita.bortnichuk/Documents/Study/kpi/3course/2semester/Arduino/BrightnessChange/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikita.bortnichuk/Documents/Study/kpi/3course/2semester/Arduino/BrightnessChange/cmake-build-debug/CMakeFiles/BrightnessChange-size.dir
+/Users/nikita.bortnichuk/Documents/Study/kpi/3course/2semester/Arduino/BrightnessChange/cmake-build-debug/CMakeFiles/BrightnessChange.dir
+/Users/nikita.bortnichuk/Documents/Study/kpi/3course/2semester/Arduino/BrightnessChange/cmake-build-debug/CMakeFiles/megaADK_CORE.dir
